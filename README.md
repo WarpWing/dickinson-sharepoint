@@ -1,2 +1,2 @@
 # dickinson-sharepoint
-A modified Cohere Connector for interacting with Dickinson College's Sharepoint Endpoint 
+A modified Cohere Search Connector for interacting with Dickinson College's federated OneDrive.
